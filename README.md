@@ -20,6 +20,10 @@ Focuses on customer rankings, product performance, segment analysis and market p
 
 Analyzes monthly sales and profit trends along with category-level sales and profitability.
 
+### Page 4 — Geographic & Market Analysis
+
+Analyzes monthly sales and profit trends along with geographic location.
+
 ## Tools & Technologies
 
 - Microsoft Power BI
