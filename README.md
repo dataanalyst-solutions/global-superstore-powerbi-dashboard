@@ -22,7 +22,7 @@ Analyzes monthly sales and profit trends along with category-level sales and pro
 
 ### Page 4 — Geographic & Market Analysis
 
-Analyzes monthly sales and profit trends along with geographic location.
+Analyzes sales and profitability across geographic regions and markets to identify regional performance and business opportunities.
 
 ## Tools & Technologies
 
