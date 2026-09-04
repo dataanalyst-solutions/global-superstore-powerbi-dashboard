@@ -4,19 +4,19 @@
 
 ## Project Overview
 
-An interactive **4-page Power BI dashboard** developed to analyze Global Superstore sales, profitability, customers, products, segments, markets and geographic performance.
+An interactive 4-page Power BI dashboard developed to analyze Global Superstore sales, profitability, customers, products, segments, markets and geographic performance.
 
 The dashboard transforms transactional data into interactive business insights through KPI tracking, trend analysis, customer and product analysis, category performance and geographic analysis.
 
 ## Key Performance Indicators
 
-* Total Sales: 13M
-* Total Profit: 1.47M
-* Profit Margin: 12%
-* Average Order Value: 505.01
-* Total Customers: 5K
-* Total Orders: 25K
-* Total Products: 10K
+- Total Sales: 13M
+- Total Profit: 1.47M
+- Profit Margin: 12%
+- Average Order Value: 505.01
+- Total Customers: 5K
+- Total Orders: 25K
+- Total Products: 10K
 
 ## Dashboard Pages
 
@@ -56,39 +56,43 @@ Analyzes sales and profitability across geographic regions and markets to identi
 
 ## Key Analytical Areas
 
-* Sales and profit performance
-* Monthly sales and profit trends
-* Category-level sales and profitability
-* Customer performance and ranking
-* Product performance
-* Segment analysis
-* Market performance
-* Geographic analysis
-* KPI monitoring
+- Sales and profit performance
+- Monthly sales and profit trends
+- Category-level sales and profitability
+- Customer performance and ranking
+- Product performance
+- Segment analysis
+- Market performance
+- Geographic analysis
+- KPI monitoring
 
 ## DAX & Power BI Techniques
 
 The project uses DAX measures and Power BI functionality for:
 
-* Total Sales
-* Total Profit
-* Total Customers
-* Total Orders
-* Total Products
-* Profit Margin
-* Average Order Value
-* Time intelligence
-* Filter context analysis
-* Interactive filtering
+- Total Sales
+- Total Profit
+- Total Customers
+- Total Orders
+- Total Products
+- Profit Margin
+- Average Order Value
+- Sales Growth %
+- Profit Growth %
+- Sales YTD
+- Profit YTD
+- Time intelligence
+- Filter context analysis
+- Interactive filtering
 
 ## Tools & Technologies
 
-* Microsoft Power BI
-* DAX
-* Power Query
-* Data Modeling
-* Data Visualization
-* Microsoft Excel
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+- Microsoft Excel
 
 ## Business Value
 
@@ -96,10 +100,9 @@ The dashboard demonstrates how transactional sales data can be transformed into 
 
 ## Project Files
 
-* Power BI dashboard: `Global Superstore Dashboard.pbix`
-* Dashboard screenshots are included in this repository.
+- Power BI dashboard: `Global Superstore Dashboard.pbix`
+- Dashboard screenshots are included in this repository.
 
 ## Project Status
 
 **Completed**
-
