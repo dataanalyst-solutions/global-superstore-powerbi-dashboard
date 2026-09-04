@@ -4,7 +4,7 @@ Power BI | DAX | Power Query | Data Analytics | Data Visualization
 
 ## Project Overview
 
-An interactive 3-page Power BI dashboard developed to analyze Global Superstore sales, profitability, customers, products, segments and markets.
+An interactive 4-page Power BI dashboard developed to analyze Global Superstore sales, profitability, customers, products, segments and markets.
 
 ## Dashboard Pages
 
