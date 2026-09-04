@@ -40,19 +40,19 @@ Analyzes sales and profitability across geographic regions and markets to identi
 
 ### Page 1 — Executive Sales Dashboard
 
-![Executive Sales Dashboard](Global%20SuperStore%20Interactive%20Sales%20Dashboard.jpg)
+[Executive Sales Dashboard](Global%20SuperStore%20Interactive%20Sales%20Dashboard.jpg)
 
 ### Page 2 — Customer & Products Analysis
 
-![Customer & Products Analysis](Customer%20%26%20Product%20Analysis.jpg)
+[Customer & Products Analysis](Customer%20%26%20Product%20Analysis.jpg)
 
 ### Page 3 — Sales & Profit Analysis
 
-![Sales & Profit Analysis](Sales%20and%20Profit%20Analysis.jpg)
+[Sales & Profit Analysis](Sales%20and%20Profit%20Analysis.jpg)
 
 ### Page 4 — Geographic & Market Analysis
 
-![Geographic & Market Analysis](Geographic%20%26%20Market%20Analysis.jpg)
+[Geographic & Market Analysis](Geographic%20%26%20Market%20Analysis.jpg)
 
 ## Key Analytical Areas
 
