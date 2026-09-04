@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-An interactive 4-page Power BI dashboard developed to analyze Global Superstore sales, profitability, customers, products, segments, markets and geographic performance.
+An interactive **4-page Power BI dashboard** developed to analyze Global Superstore sales, profitability, customers, products, segments, markets and geographic performance.
 
 The dashboard transforms transactional data into interactive business insights through KPI tracking, trend analysis, customer and product analysis, category performance and geographic analysis.
 
@@ -40,19 +40,19 @@ Analyzes sales and profitability across geographic regions and markets to identi
 
 ### Page 1 — Executive Sales Dashboard
 
-![Executive Sales Dashboard](Global%20SuperStore%20Interactive%20Sales%20Dashboard.jpg)
+![Executive Sales Dashboard](screenshots/Global%20SuperStore%20Interactive%20Sales%20Dashboard.jpg)
 
 ### Page 2 — Customer & Products Analysis
 
-![Customer & Products Analysis](Customer%20%26%20Product%20Analysis.jpg)
+![Customer & Products Analysis](screenshots/Customer%20%26%20Product%20Analysis.jpg)
 
 ### Page 3 — Sales & Profit Analysis
 
-![Sales & Profit Analysis](Sales%20and%20Profit%20Analysis.jpg)
+![Sales & Profit Analysis](screenshots/Sales%20and%20Profit%20Analysis.jpg)
 
 ### Page 4 — Geographic & Market Analysis
 
-![Geographic & Market Analysis](Geographic%20%26%20Market%20Analysis.jpg)
+![Geographic & Market Analysis](screenshots/Geographic%20%26%20Market%20Analysis.jpg)
 
 ## Key Analytical Areas
 
@@ -65,6 +65,7 @@ Analyzes sales and profitability across geographic regions and markets to identi
 - Market performance
 - Geographic analysis
 - KPI monitoring
+- Interactive filtering
 
 ## DAX & Power BI Techniques
 
@@ -77,10 +78,6 @@ The project uses DAX measures and Power BI functionality for:
 - Total Products
 - Profit Margin
 - Average Order Value
-- Sales Growth %
-- Profit Growth %
-- Sales YTD
-- Profit YTD
 - Time intelligence
 - Filter context analysis
 - Interactive filtering
@@ -100,8 +97,17 @@ The dashboard demonstrates how transactional sales data can be transformed into 
 
 ## Project Files
 
-- Power BI dashboard: `Global Superstore Dashboard.pbix`
-- Dashboard screenshots are included in this repository.
+### Power BI Dashboard
+
+The complete Power BI `.pbix` file is available in the **PowerBI** folder.
+
+### Business Insights
+
+A business insights and project summary document is available in the **Documentation** folder.
+
+### Dashboard Screenshots
+
+Four dashboard screenshots are available in the **screenshots** folder.
 
 ## Project Status
 
